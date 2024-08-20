@@ -1,0 +1,30 @@
+numero = 20
+# Nome da variável: numero
+# Dado/valor atribuído: 20
+
+nome = 'Veronica'
+
+variavel = [21, 'Maria', 19.90]
+
+print(numero)
+# Exibe em tela o conteúdo da variável numero
+
+print(nome)
+print(variavel)
+
+     
+20
+Veronica
+[21, 'Maria', 19.9]
+Sintaxe básica, leitura léxica e indentação
+
+
+dicionario = {'Nome':'Fernando',
+              'Idade':33,
+              'Formação':'Eng. da Computação'}
+
+print(dicionario)
+
+# Por leitura léxica entenda que o interpretador lê o código sequencialmente,
+# de cima para baixo, da esquerda para direita, levando em conta os espaços e
+# tabulações aplicadas ao código (indentação).
